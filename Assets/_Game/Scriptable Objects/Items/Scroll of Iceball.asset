@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0cface925244449024879ee265e889, type: 3}
+  m_Name: Scroll of Iceball
+  m_EditorClassIdentifier: 
+  itemId: a71b2c7d-a1a4-48aa-a67c-39d60dedd4cd
+  itemName: Scroll of Iceball
+  itemDescription: 
+  itemPrefab: {fileID: 2083803459054368864, guid: 20f8e7cf32d7cf04abe9ca44a98477b4, type: 3}
+  itemStackable: 1
+  itemStackLimit: 0

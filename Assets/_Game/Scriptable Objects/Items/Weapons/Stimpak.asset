@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0cface925244449024879ee265e889, type: 3}
+  m_Name: Stimpak
+  m_EditorClassIdentifier: 
+  itemId: d9d4b996-97fc-4269-93f8-28f1e0468887
+  itemName: Stimpak
+  itemDescription: Restores 50 Health
+  itemPrefab: {fileID: 7420617050771417580, guid: b6c078a01d547e64c90eaf002192182e, type: 3}
+  itemStackable: 1
+  itemStackLimit: 2

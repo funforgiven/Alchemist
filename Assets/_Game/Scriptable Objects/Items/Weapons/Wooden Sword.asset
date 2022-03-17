@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0cface925244449024879ee265e889, type: 3}
+  m_Name: Wooden Sword
+  m_EditorClassIdentifier: 
+  itemId: 35e80979-ff4f-432b-98ef-5859386ce470
+  itemName: Wooden Sword
+  itemDescription: A simple wooden sword. Won't deal much damage, but probably better
+    than your fists.
+  itemPrefab: {fileID: 7884061790942492938, guid: 44422978fd1a08145a0ad7440e737ebe, type: 3}
+  itemStackable: 0
+  itemStackLimit: 0
